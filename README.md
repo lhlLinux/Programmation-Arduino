@@ -15,6 +15,7 @@ Dans chaque répertoire apparaissent plusieurs fichiers .ino correspondant aux di
 - Lab08: Capteur de température
 - Lab09: Entrée analogique et DEL RGB 
 - Lab10: Relais
+- Projet: projet final
 
 #### Technologies ustilisées:
 - Windows 8.1
